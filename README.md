@@ -6,4 +6,4 @@
 * **Virtual Stage (AI Cam Active):** Simulates a classroom setup to analyze non-verbal cues, giving real-time diagnostic scores on Eye Contact, Vocal Pacing (WPM), and Filler Word logic.
 * **Progressive Question Scaffolding:** Personalizes the difficulty and complexity of classroom recitation prompts based on the student's selected year level (Junior High, Senior High, or College) to meet their exact learning needs.
 * **Speech Upgrade:** Helps students swap basic filler words for high-impact academic frames that command attention and demonstrate mastery.
-* **Brave Board:** An anonymous, zero-comment community space where students can celebrate small classroom victories with peers through emoji support loops.
+* **Brave Board:** An anonymous, zero-comment community space where students can celebrate small classroom victories with peers through emoji support loop.
